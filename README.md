@@ -6,7 +6,7 @@ This project visualizes the distribution of skyscrapers (taller than 100 meters)
 
 ## Live Map
 
-👉 **[Click here to view the interactive map](https://<Pitachin>.github.io/US_Skyscrapers_Map/US_Skyscrapers_Explore.html**
+👉 **[Click here to view the interactive map](https://<Pitachin>.github.io/US_Skyscrapers_Map/US_Skyscrapers_Explore.html)**
 
 The map allows users to:
 - Hover over states to see the number of skyscrapers  
