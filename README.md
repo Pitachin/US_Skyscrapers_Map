@@ -1,5 +1,3 @@
-# US_Skyscrapers_Map
-
 # U.S. Skyscrapers Interactive Map
 
 This project visualizes the distribution of skyscrapers (taller than 100 meters) across U.S. states using **GeoPandas** and **Folium**.
