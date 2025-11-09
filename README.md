@@ -35,7 +35,7 @@ The map allows users to:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<你的用户名>/US_Skyscrapers_Map.git
+   git clone https://github.com/<your user name>/US_Skyscrapers_Map.git
    ```
 2. Install dependencies:
    ```bash
