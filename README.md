@@ -15,6 +15,12 @@ The map allows users to:
 
 ---
 
+## Report
+
+- **[Read the full report](https://Pitachin.github.io/US_Skyscrapers_Map/skyscraper_analysis.pdf)**
+
+---
+
 ## Data Source
 
 - Dataset: *Distribution_Across_USA.xlsx*  
